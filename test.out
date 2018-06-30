@@ -1,0 +1,16 @@
+connecting to localhost:10000
+sending "Four score and seven years ago our fathers did stuff"
+received "Four score and s"
+received "even years ago o"
+received "ur fathers did s"
+received "tuff"
+closing socket
+.connecting to localhost:10000
+sending "short message"
+received "short message"
+closing socket
+.
+----------------------------------------------------------------------
+Ran 2 tests in 0.003s
+
+OK
